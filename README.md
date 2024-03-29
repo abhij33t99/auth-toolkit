@@ -127,10 +127,10 @@
 
 Some more ss of the application.
 
-<img src="https://ibb.co/k32rkrp" alt="landingpage"/>
-<img src="https://ibb.co/d05QYtT" alt="loginpage"/>
-<img src="https://ibb.co/Nr8x3GM" alt="2FA"/>
-<img src="https://ibb.co/qdMYN4R" alt="settings"/>
+<img src="https://i.imgur.com/9zDNV8U.png" alt="landingpage">
+<img src="https://i.imgur.com/hRVMfE7.png" alt="loginpage">
+<img src="https://i.imgur.com/yrtW17f.png" alt="2FA">
+<img src="https://i.imgur.com/MikU7Ux.png" alt="settings">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
