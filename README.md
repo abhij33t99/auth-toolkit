@@ -72,7 +72,8 @@
 
 ## About The Project
 
-<iframe src="https://drive.google.com/file/d/1OhzybVGqFANZA8yaygTroDVu9RkkEnz7/preview" width="640" height="480" allow="autoplay"></iframe>
+<img src="https://i.imgur.com/9zDNV8U.png" alt="landingpage">
+<p>This project is an authentication app built with Next.js and AuthJs, utilizing Prisma and PostgreSQL for database management. It supports OAuth authentication with providers like Google and GitHub, offering a secure and flexible solution for user authentication and role based authorization.<p/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,7 +128,6 @@
 
 Some more ss of the application.
 
-<img src="https://i.imgur.com/9zDNV8U.png" alt="landingpage">
 <img src="https://i.imgur.com/hRVMfE7.png" alt="loginpage">
 <img src="https://i.imgur.com/yrtW17f.png" alt="2FA">
 <img src="https://i.imgur.com/MikU7Ux.png" alt="settings">
