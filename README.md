@@ -127,11 +127,10 @@
 
 Some more ss of the application.
 
-<iframe src="https://drive.google.com/file/d/1Qx2N4yJnbsT_Stp5_IGM3wvEWaqIz7sg/preview" width="640" height="480" allow="autoplay"></iframe>
-
-<iframe src="https://drive.google.com/file/d/1jCzSgfG1K4EmPahzK6NdFX5TYDX4UlGl/preview" width="640" height="480" allow="autoplay"></iframe>
-
-<iframe src="https://drive.google.com/file/d/1ZaWOiePBIRCXBTM5x_Sk1Pak9cnLvG2I/preview" width="640" height="480" allow="autoplay"></iframe>
+<img src="https://ibb.co/k32rkrp" alt="landingpage"/>
+<img src="https://ibb.co/d05QYtT" alt="loginpage"/>
+<img src="https://ibb.co/Nr8x3GM" alt="2FA"/>
+<img src="https://ibb.co/qdMYN4R" alt="settings"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
